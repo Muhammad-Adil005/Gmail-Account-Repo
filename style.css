@@ -1,0 +1,55 @@
+ .container {
+	        width: 70%;
+			height: 600px;
+			border: 2px solid black;
+			background: #fff;
+			border: .1em solid #d6cfcf;
+			margin-top: 80px;
+			border-radius: 7px;
+}
+ 
+
+.form-box {
+	        margin-left: 20px;
+}
+
+h1 {
+	font-size: 15px;
+	color: #202124;
+    font-family: 'Google Sans',arial,sans-serif;
+    padding-bottom: 0;
+    padding-top: 16px;
+}
+
+input {
+	  padding: 5px;
+	  Margin: 5px;
+	  border-radius: 5px;
+	  margin: 10px 5px 10px 5px;
+	  z-index: 1;
+	font-weight: 400;
+}
+
+button {
+	   
+	   background-color: DodgerBlue;
+	   color: white;
+	   padding: 7px;
+	   margin-left: 120px;
+	   border-radius: 5px;
+	   border-color:DodgerBlue;
+	   width: 100px;
+}
+
+.Right {
+	      float: Right;
+		  margin: px 10px 10px 20px;
+}
+
+
+
+
+
+
+
+
